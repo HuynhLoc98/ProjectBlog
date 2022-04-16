@@ -1,0 +1,59 @@
+.btn-create {
+    justify-content: flex-end;
+    padding: 18px;
+}
+.btn {
+    display: flex;
+    border-radius: 10px;
+    color: white;
+    align-items: center;
+}
+.button-create {
+    border: 1px solid green;
+    background-color: green;
+}
+.text-button {
+    padding-left: 10px;
+}
+.btn-success {
+    margin-left: 3px;
+}
+.button-edit {
+    border: 1px solid #0d6efd;
+    background-color: #0d6efd;
+}
+.button-delete {
+    border: 1px solid red;
+    background-color: red;
+    margin-left: 10px;
+}
+.btn-action {
+    justify-content: end;
+}
+.content-blog {
+    border-bottom: 2px solid black;
+    padding: 20px;
+}
+.title-blog {
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.row-content {
+    align-items: center;
+}
+.btn-form {
+    justify-content: center;
+}
+.button-save {
+    border: 1px solid hsl(121, 48%, 24%);
+    background-color: hsl(121, 48%, 24%);
+}
+.button-delete {
+    border: 1px solid red;
+    background-color: red;
+    margin-left: 10px;
+}
+.search-input {
+    margin-top: 50px;
+}
